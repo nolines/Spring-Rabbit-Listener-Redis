@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring4Redis.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring4Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring4Redis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring4Redis_main.iml" group="Spring4Redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring4Redis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring4Redis_test.iml" group="Spring4Redis" />
+    </modules>
+  </component>
+</project>
